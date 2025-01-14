@@ -7,7 +7,8 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Rag-Chat: AI-Powered Conversational Documentation Assistant
 
-A Retrieval Augmented Generation based solution for querying any documentation
+A natural language interface for documentation search powered by Azure OpenAI and Retrieval Augmented Generation (RAG). Transform your technical documentation into an interactive knowledge base that understands and answers user queries in plain language.
+
 
 ## Summary
 
