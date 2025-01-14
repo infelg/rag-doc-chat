@@ -5,9 +5,9 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Rag-Chat: AI-Powered Conversational Documentation Assistant
 
-Rag-Chat: AI-Powered Conversational Documentation Assistant
+A Retrieval Augmented Generation based solution for querying any documentation
 
 ## Summary
 
